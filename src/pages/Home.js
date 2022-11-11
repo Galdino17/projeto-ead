@@ -75,8 +75,9 @@ export const Home = () => {
 
 			<IntroDetalhes>
 				<li>
-        <img src={edit} />
-        Aulas práticas e diretas</li>
+					<img src={edit} />
+					Aulas práticas e diretas
+				</li>
 				<li>
 					<img src={user} /> Grupos de conversação
 				</li>
